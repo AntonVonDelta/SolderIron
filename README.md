@@ -5,4 +5,4 @@ Uses a ON/OFF PID for controlling the temperature of the tip.
 
 The control is done using a very inexpensive Attiny85
 
-![Schematic Image](Schematics/SolderIron.svg)
+![Schematic Image](SolderIron.svg)
